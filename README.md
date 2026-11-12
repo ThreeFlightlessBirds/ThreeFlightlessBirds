@@ -95,6 +95,7 @@ Currently, I'm continuing to expand my technical knowledge through software engi
 | Python for Data Science & AI: Hands-On Development | IBM | 🔗 [Verify](https://coursera.org/share/c321f45a2a8d8ee10ec47dfdb789c0fb) |
 | Build & Deploy AI Applications with Python & Flask | IBM | 🔗 [Verify](https://coursera.org/share/8951213c3b56b37ceed02771bb0b629e) |
 | C++ Programming Fundamentals | Microsoft | 🔗 [Verify](https://coursera.org/share/c72145d9fcb686ff508e3d9e60c7a0a6) |
+| Intermediate C++ Programming Techniques | 🔗 [Verify](https://coursera.org/share/c9f14f121745b100963452cfb16179ba) |
 
 ### DevOps & Cloud
 
